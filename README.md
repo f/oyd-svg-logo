@@ -1,2 +1,1 @@
-# oyd-svg-logo
-ÖYD - SVG Logo
+## Özgür Yazılım Derneği SVG Logo Kaynak Kodu
